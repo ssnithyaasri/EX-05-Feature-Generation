@@ -21,6 +21,7 @@ Save the data to the file
 
 # CODE
 
+```
 import pandas as pd
 df=pd.read_csv("data.csv")
 df
@@ -186,7 +187,7 @@ from sklearn.preprocessing import RobustScaler
 sc3=RobustScaler()
 df5=pd.DataFrame(sc3.fit_transform(df1),columns=['Passenger','Survived','Pclass','Sex','Age','SibSp','Parch','Fare','Embarked'])
 df5
-
+```
 
 # OUPUT
 
@@ -194,7 +195,7 @@ df5
 
 ![image](https://user-images.githubusercontent.com/119122478/231107285-51241e64-58be-40c9-a971-8fbad6451140.png)
 
-![image](https://user-images.githubusercontent.com/119122478/231107381-74191ab8-076d-4180-bfb7-124f59c8bc2c.png
+![image](https://user-images.githubusercontent.com/119122478/231107381-74191ab8-076d-4180-bfb7-124f59c8bc2c.png)
 
 ![image](https://user-images.githubusercontent.com/119122478/231107577-1da07b81-16c0-473f-974d-c0c14af07898.png)
 
@@ -237,7 +238,7 @@ df5
 
 ![image](https://user-images.githubusercontent.com/119122478/231110516-32f3245f-ce71-46a2-9fb2-89a973e3fe6f.png)
 
-###RESULT:
+# RESULT:
 
 Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
 
