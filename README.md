@@ -222,21 +222,7 @@ df5
 
 ![image](https://user-images.githubusercontent.com/119122478/231109427-ddb711cc-1905-4f31-8ed6-2161e7839dcb.png)
 
-![image](https://user-images.githubusercontent.com/119122478/231109483-438bb6bd-3fe5-4bca-81c7-5e856a61fe36.png)
 
-![image](https://user-images.githubusercontent.com/119122478/231109551-48b55226-0f33-4ecf-8ae6-a40d712d6320.png)
-
- ![image](https://user-images.githubusercontent.com/119122478/231109679-c7fb6cc7-4e67-4b08-b70f-29e02ee5cd34.png)
- 
- ![image](https://user-images.githubusercontent.com/119122478/231109823-f8e07d03-f184-4609-a9b4-9779051fa8e5.png)
- 
- ![image](https://user-images.githubusercontent.com/119122478/231109969-cc4226b9-7109-4e55-8bb3-cf7f98375044.png)
-
-![image](https://user-images.githubusercontent.com/119122478/231110084-1266d721-5e07-496d-a7a5-bd8925b3f83f.png)
-
-![image](https://user-images.githubusercontent.com/119122478/231110212-3c752b1d-08e5-497a-b7ef-b364cd399a56.png)
-
-![image](https://user-images.githubusercontent.com/119122478/231110516-32f3245f-ce71-46a2-9fb2-89a973e3fe6f.png)
 
 # RESULT:
 
